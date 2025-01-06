@@ -8,7 +8,7 @@ A passionate software developer with a knack for crafting clean, efficient code 
 
 * 🌍  I'm based in Noida
 * ✉️  You can contact me at [egulfamansari@gmail.com](mailto:egulfamansari@gmail.com)
-* 🧠  I'm learning React.js
+
 * 🤝  I'm open to collaborating on interesting Project to bring ideas into reality
 
 ### Skills
